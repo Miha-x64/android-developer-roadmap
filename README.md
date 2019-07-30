@@ -41,14 +41,15 @@
    * RecyclerView
    * ViewPager
    * Spinner
+* UI Resources
+   * Colour formats
+   * Drawables, Bitmaps, 9-patch
+   * String, Text (Spannable, CharSequence)
 * CustomView
    * Canvas
-   * Bitmap
-   * Paint
-* UI Resources
-   * Drawables
-   * String
-   * Styles
+   * Paint, TextPaint
+   * Path
+   * PorterDuff, Xfermode, ColorFilter
 * Fragments
    * Fragment Lifecycle
    * Fragment Manager

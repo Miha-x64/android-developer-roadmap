@@ -119,8 +119,9 @@
      * MVI
      * MVP
 * Unit Testing
-  	 * Local Unit Testing
-  	 * Instrumentation Testing
+    * Unit Testing
+    * Robolectric
+    * Instrumentation Testing
 * Firebase
      * FCM
      * Crashlytics

@@ -130,9 +130,11 @@
      * App Indexing
      * Dynamic Link
 * Security
-     * Encrypt / Decrypt
-     * Proguard
-     * R8
+     * Keystore
+     * SQLCipher
+* Shrinking and obfuscation
+     * AAPT shrinkResources
+     * Proguard, R8
 * App Release
      * .keystore file
      * App Bundle

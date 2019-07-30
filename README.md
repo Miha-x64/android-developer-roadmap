@@ -71,10 +71,11 @@
   * HandlerThread
   * AsyncTask
   * IntentService
-* Debugging
+* Debugging and profiling
+  * Debugger
   * Memory profiling
+  * Sampling and Tracing, CPU profiler, Systrace, Nanoscope
   * Logging
-  * Systrace
   * Exceptions
   * Error Handling
 * Memory Leak

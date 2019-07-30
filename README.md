@@ -93,8 +93,7 @@
      * streaming: android.util.JsonReader/Writer
      * AST: org.json
      * mapping: GSON, Moshi, Jackson or whatever
-  * Flat Buffer
-  * Protocol Buffer
+  * Unpopular but interesting: CBOR, Protobuf, FlatBuffers, Cap'n'proto, and more
 * Android Jetpack
   * Foundation Components
      * AppCompant

@@ -6,7 +6,14 @@
 ## Roadmap to learn Android App Development
 * Programming
    * Java
+      * Syntax
+      * Collections and Streams
+      * Multithreading
+         * Thread and Runnable
+         * Executor(s), ExecutorService, ThreadPoolExecutor
+         * Future, CompletableFuture
    * Kotlin
+      * Coroutines, Structured Concurrency
 * Android Studio
    * Android Studio IDE Overview
    * Project Structure
@@ -57,9 +64,11 @@
 * Build
   * Gradle
   * Debug / Release Configuration
-* Threading 
-  * Threads
-  * Handler / Looper
+* Threading
+  * Handler and Looper, IdleHandler
+  * HandlerThread
+  * AsyncTask
+  * IntentService
 * Debugging
   * Memory profiling
   * Logging
@@ -78,9 +87,6 @@
   * Networking
      * Fast Android Networking Library
      * Retrofit
-  * MultiThreading
-     * RxJava
-     * Coroutines 
 * Data Format
   * JSON
      * GSON

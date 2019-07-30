@@ -24,6 +24,7 @@
    * Activity
      * Activity Lifecycle
      * Tasks & Back Stack
+     * nonConfigurationInstance, savedInstanceState
    * Service
    * Broadcast Receiver
    * Content Provider

@@ -53,6 +53,7 @@
 * Fragments
    * Fragment Lifecycle
    * Fragment Manager
+   * Child fragments
 * Support User Interface
   * ProgressBar
   * Dialogs

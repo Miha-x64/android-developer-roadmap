@@ -99,13 +99,6 @@
      * AppCompant
      * Android KTX
      * Multidex
-  * Architecture Components
-     * LiveData
-     * ViewModel
-     * DataBinding
-     * Paging
-     * Work Manager
-     * Navigation
   * Behaviour Components 
      * Download Manager
      * Media Playback

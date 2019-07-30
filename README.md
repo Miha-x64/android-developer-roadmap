@@ -85,10 +85,8 @@
   * Image Loading
      * Glide
      * Picasso
-  * Dependency Injection
-     * Dagger
   * Networking
-     * Fast Android Networking Library
+     * OkHttp
      * Retrofit
 * Data Format
   * JSON

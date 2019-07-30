@@ -59,10 +59,9 @@
    * Fragment Manager
    * Child fragments
 * Storage
-  * Shared Preferences
-  * File Systems
-  * Database
-    * RoomDB
+   * Raw files
+   * Shared Preferences
+   * SQLite database
 * Build
   * Gradle
   * Debug / Release Configuration

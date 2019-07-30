@@ -41,6 +41,10 @@
    * RecyclerView
    * ViewPager
    * Spinner
+* User Interaction
+   * ProgressBar
+   * Dialogs
+   * Toast & Snackbar
 * UI Resources
    * Colour formats
    * Drawables, Bitmaps, 9-patch
@@ -54,10 +58,6 @@
    * Fragment Lifecycle
    * Fragment Manager
    * Child fragments
-* Support User Interface
-  * ProgressBar
-  * Dialogs
-  * Toast & Snackbar
 * Storage
   * Shared Preferences
   * File Systems

@@ -90,7 +90,9 @@
      * Retrofit
 * Data Format
   * JSON
-     * GSON
+     * streaming: android.util.JsonReader/Writer
+     * AST: org.json
+     * mapping: GSON, Moshi, Jackson or whatever
   * Flat Buffer
   * Protocol Buffer
 * Android Jetpack

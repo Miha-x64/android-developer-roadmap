@@ -1,6 +1,6 @@
 # Android Developer Roadmap
 
-> Less bullshit, more advanced and useful topics
+> This fork: Less bullshit, more advanced and useful topics
 
 
 ## Roadmap to learn Android App Development
@@ -14,12 +14,12 @@
          * Future, CompletableFuture
    * Kotlin
       * Coroutines, Structured Concurrency
-* Android Studio
+* Android Studio / IntelliJ IDEA
    * Android Studio IDE Overview
    * Project Structure
-   	   * Java/Kotlin
-   	   * XML
-   	   * .gradle files
+      * Java/Kotlin
+      * XML
+      * .gradle files
 * Android Component
    * Activity
      * Activity Lifecycle
@@ -34,9 +34,9 @@
    * Intent Filter
 * Static User Interface
   * View
-      * Button, ImageView, TextView, EditText etc
+      * TextView, Button, EditText, ImageView, ImageButton, etc
   * ViewGroup
-  	   * LinearLayout, RelativeLayout, FrameLayout, ConstraintLayout
+      * FrameLayout, LinearLayout, RelativeLayout, etc
 * Dynamic User Interface
    * RecyclerView
    * ViewPager

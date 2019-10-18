@@ -13,6 +13,8 @@
          * Executor(s), ExecutorService, ThreadPoolExecutor
          * Future, CompletableFuture
    * Kotlin
+      * Syntax, Generics, idioms
+      * (Mutable)Collections, Sequences, inline functions, inline classes
       * Coroutines, Structured Concurrency
 * Android Studio / IntelliJ IDEA
    * Android Studio IDE Overview
@@ -39,7 +41,7 @@
   * ViewGroup
       * FrameLayout, LinearLayout, RelativeLayout, etc
 * Dynamic User Interface
-   * RecyclerView
+   * ListView, RecyclerView
    * ViewPager
    * Spinner
 * User Interaction
@@ -50,7 +52,7 @@
    * Colour formats
    * Drawables, Bitmaps, 9-patch
    * String, Text (Spannable, CharSequence)
-* CustomView
+* Custom Views and Drawables
    * Canvas
    * Paint, TextPaint
    * Path
@@ -115,9 +117,7 @@
      * Android TV
      * Android Wear
 * Architecture 
-     * MVVM
-     * MVI
-     * MVP
+     * MVVWhatever
 * Unit Testing
     * Unit Testing
     * Robolectric

@@ -28,6 +28,8 @@
      * Tasks & Back Stack
      * nonConfigurationInstance, savedInstanceState
    * Service
+     * IntentService
+     * JobIntentService
    * Broadcast Receiver
    * Content Provider
 * Intents
@@ -50,7 +52,7 @@
    * Toast & Snackbar
 * UI Resources
    * Colour formats
-   * Drawables, Bitmaps, 9-patch
+   * Drawables (color, shape, selector, vector, ripple, bitmap, 9-patch)
    * String, Text (Spannable, CharSequence)
 * Custom Views and Drawables
    * Canvas
@@ -75,15 +77,12 @@
   * IntentService
 * Debugging and profiling
   * Debugger
-  * Memory profiling
+  * Memory: heap dumps, memory leaks, LeakCanary
   * Sampling and Tracing, CPU profiler, Systrace, Nanoscope
   * Logging
   * Exceptions
   * Error Handling
-* Memory Leak
-  * Detecting and Fixing Memory Leaks
-  * Context
-* 3rd Party Library
+* 3rd Party Libraries
   * Image Loading
      * Glide
      * Picasso
@@ -94,11 +93,11 @@
   * JSON
      * streaming: android.util.JsonReader/Writer
      * AST: org.json
-     * mapping: GSON, Moshi, Jackson or whatever
-  * Unpopular but interesting: CBOR, Protobuf, FlatBuffers, Cap'n'proto, and more
+     * mapping/binding: GSON, Moshi, Jackson or whatever
+  * Unpopular but interesting: CBOR, Protobuf, FlatBuffers, Cap'n'Proto, and more
 * Android Jetpack
-  * Foundation Components
-     * AppCompat
+  * Basic Components
+     * AppCompat Activities and Fragments
      * Android KTX
      * Multidex
   * Behaviour Components 
@@ -111,13 +110,10 @@
      * Slice
   * UI Component
      * Animation & Transition
-     * Android Auto
      * Emoji
      * Palette
-     * Android TV
-     * Android Wear
 * Architecture 
-     * MVVWhatever
+     * MVWhatever
 * Unit Testing
     * Unit Testing
     * Robolectric
@@ -134,10 +130,10 @@
      * SQLCipher
 * Shrinking and obfuscation
      * AAPT shrinkResources
-     * Proguard, R8
+     * minifyEnabled, Proguard, R8
 * App Release
      * .keystore file
-     * App Bundle
+     * App Bundle, Dynamic Feature
      * Playstore
 * Keep Learning and Improving
 

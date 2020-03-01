@@ -98,7 +98,7 @@
   * Unpopular but interesting: CBOR, Protobuf, FlatBuffers, Cap'n'proto, and more
 * Android Jetpack
   * Foundation Components
-     * AppCompant
+     * AppCompat
      * Android KTX
      * Multidex
   * Behaviour Components 

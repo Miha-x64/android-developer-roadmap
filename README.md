@@ -7,7 +7,9 @@
 * Programming
    * Java
       * Syntax
-      * Collections and Streams
+      * Stdlib basics: collections, utilities
+      * OOP concept, principles and patterns
+      * Streams, FP concept
       * Multithreading
          * Thread and Runnable
          * Executor(s), ExecutorService, ThreadPoolExecutor
